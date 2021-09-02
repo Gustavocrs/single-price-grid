@@ -50,4 +50,8 @@
   font-size: 16px;
   color: #FFFFFF;
   font-weight: 700;
+  cursor: pointer;
+}
+.btn_valores:hover{
+  background-color: hsl(71, 65%, 37%);
 }
