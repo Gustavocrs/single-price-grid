@@ -1,0 +1,103 @@
+@media screen and (max-width: 376px){
+  .container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 70px 20px 0 20px;
+  }
+
+  .box{
+    display: flex;
+    flex-direction: column;
+    margin: auto auto;
+    width: 100%;
+    height: 100%;
+  }
+
+  .principal{
+    font-size: 12px;
+    width: 90%;
+    height: auto;
+  }
+
+  .titulo_principal{
+    font-size: 20px;
+    margin: 20px 0 0 23px;
+  }
+  
+  .sub_principal{
+    font-size: 16px;
+    margin: 20px 0 0 23px;
+  }
+  
+  .texto_principal{
+    font-size: 14px;
+    color: hsl(218, 22%, 67%);
+    margin: 20px 23px 20px 23px;
+    line-height: 1.8;
+  }
+
+  .valores{
+    border-radius: 0;
+    font-size: 12px;
+    width: 90%;
+    height: auto;
+  }
+
+  .titulo_valores{
+    font-size: 18px;
+    margin: 20px 0 0 23px;
+  }
+  
+  .preco_valores{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    color: #FFF;
+    font-size: 30px;
+    font-weight: 900;
+    margin: 20px 0 0 23px;
+  }
+  
+  .tipo_valores{
+    color: #FFF;
+    margin: 0 0 0 10px;
+    opacity: 50%;
+    font-size: 16px;
+    font-weight: 100;
+  }
+  
+  .texto_valores{
+    color: #FFF;
+    font-size: 15px;
+    margin: 20px 0 0 23px;
+    opacity: 75%;
+  }
+  
+  .btn_valores{
+    margin: 30px auto 20px auto;
+    width: 87%;
+    height: 50px;
+  }
+
+  .sobre{
+    border-radius: 0 0 10px 10px;
+    font-size: 12px;
+    width: 90%;
+    height: auto;
+    padding-bottom: 35px;
+  }
+  .titulo_sobre{
+    margin: 20px 0 0 23px;
+  }
+  
+  .texto_sobre{
+    margin: 20px 0 0 23px;
+    line-height: .2;
+  }
+
+
+
+
+
+}

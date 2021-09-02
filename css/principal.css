@@ -1,0 +1,25 @@
+.principal{
+  background-color: #FFF;
+  grid-column: 1/3;
+  grid-row: 1/2;
+  border-radius: 10px 10px 0 0;
+}
+
+.titulo_principal{
+  color: hsl(179, 62%, 43%);
+  font-weight: 900;
+  margin: 40px 0 20px 40px;
+}
+
+.sub_principal{
+  color: hsl(71, 73%, 54%);
+  font-weight: 900;
+  margin: 0 0 10px 40px;
+}
+
+.texto_principal{
+  font-size: 14px;
+  color: hsl(218, 22%, 67%);
+  margin: 0 70px 25px 40px;
+  line-height: 1.8;
+}

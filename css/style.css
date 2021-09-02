@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla&display=swap");
+
+body{
+    background-color: hsl(204, 43%, 93%);
+    font-size: 16px;
+    font-family: Karla;
+}
+
+a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+.container{
+    display: grid;
+    justify-content: center;
+    width: 100%;    
+    height: 100vh;
+}
+
+.box{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 45% 55%;
+    width: 600px;
+    height: 450px;
+    margin: auto auto;
+}

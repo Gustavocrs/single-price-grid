@@ -1,0 +1,23 @@
+.sobre{
+  background-color: hsl(179, 62%, 43%);
+  opacity: 75%;
+  grid-column: 2/3;
+  grid-row: 2/2;
+  border-radius: 0 0 10px 0;
+}
+
+.titulo_sobre{
+  color: #FFF;
+  font-weight: 700;
+  font-size: 18px;
+  margin: 40px 0 25px 40px;
+}
+
+.texto_sobre{
+  color: #FFF;
+  font-weight: 200;
+  font-size: 13px;
+  margin: 10px 50px 0 40px;
+  opacity: 80%;
+  line-height: .7;
+}
