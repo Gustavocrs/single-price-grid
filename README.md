@@ -1,4 +1,4 @@
-<h1>Testimonials Grid</h1>
+<h1>Single price grid</h1>
 
 <img src="https://img.shields.io/badge/STATUS%20-Pronto-sucess"/>
 
