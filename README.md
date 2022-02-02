@@ -1,6 +1,21 @@
-# Frontend Mentor - Single price grid 
-https://gustavocrs.github.io/single-price-grid/
+<h1>Testimonials Grid</h1>
 
-![Design preview for the Single price grid component coding challenge](./design/desktop-design.jpg)
+<img src="https://img.shields.io/badge/STATUS%20-Pronto-sucess"/>
 
-![Design preview for the Single price grid component coding challenge](./design/mobile-design.jpg)
+<h3>Descrição do projeto</h3>
+<p>Projeto realizado como treinamento, utilizando como base o projeto do site Frontend Mentor</p>
+
+<h3>Acesse o projeto</h3><a href="https://gustavocrs.github.io/single-price-grid/">Clique Aqui</a> 
+
+<div><p><h3>Linguagens</h3></p>
+<img alt="Icone HTML" src="./images/html.png" style="width:50px;height:50px"/> 
+<img alt="Icone CSS" src="./images/css.png" style="width:50px;height:50px"/> 
+</div>
+
+<p><h3>Autor</h3> Frontend Mentor</p>
+
+<p><h3>Adaptação</h3> Gustavo Silva</p>
+
+<h3>Imagens do projeto</h3>
+<img alt="Imagem do projeto" src="./design/desktop-preview.jpg"/>
+<img alt="Imagem do projeto" src="./design/mobile-design.jpg"/>
